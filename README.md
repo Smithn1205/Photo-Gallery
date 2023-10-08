@@ -1,4 +1,4 @@
-# Photo Gallery Using Lightbox Functionality
+# Photo Gallery
 
 A simple photo gallery web application with lightbox functionality, built using HTML, CSS, and JavaScript.
 
